@@ -1,0 +1,373 @@
+1510548902181	geckodriver	INFO	geckodriver 0.18.0
+1510548902250	geckodriver	INFO	Listening on 127.0.0.1:60335
+1510548904252	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510548904834	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510548905644	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510548909196	Marionette	INFO	Listening on port 60341
+1510548909575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510548909643	Marionette	DEBUG	Register listener.js for window 4294967297
+1510548909755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510548909960	MarioUnable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549007197	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/"Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9840] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9840] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e&ClickID=3"
+1510549094909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1510549095585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn3/?PGTID=0d411266-00aa-44db-f1aa-c662705f9aa5&ClickID=3"
+1510549096009	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn3/?PGTID=0d411266-00aa-44db-f1aa-c662705f9aa5&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549181793	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn3/?PGTID=0d411266-00aa-44db-f1aa-c662705f9aa5&ClickID=3"
+1510549181986	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn3/?PGTID=0d411266-00aa-44db-f1aa-c662705f9aa5&ClickID=3"
+1510549181995	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn3/?PGTID=0d411266-00aa-44db-f1aa-c662705f9aa5&ClickID=3"
+1510549182299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1510549183026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn4/?PGTID=0d411266-00aa-4fbb-3235-6925f9514543&ClickID=3"
+1510549183441	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn4/?PGTID=0d411266-00aa-4fbb-3235-6925f9514543&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549268420	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn4/?PGTID=0d411266-00aa-4fbb-3235-6925f9514543&ClickID=3"
+1510549268632	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn4/?PGTID=0d411266-00aa-4fbb-3235-6925f9514543&ClickID=3"
+1510549268645	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn4/?PGTID=0d411266-00aa-4fbb-3235-6925f9514543&ClickID=3"
+1510549268867	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1510549269609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn5/?PGTID=0d411266-00aa-44f1-2cc3-ab9fb8b2e10d&ClickID=3"
+1510549270023	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn5/?PGTID=0d411266-00aa-44f1-2cc3-ab9fb8b2e10d&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549355052	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn5/?PGTID=0d411266-00aa-44f1-2cc3-ab9fb8b2e10d&ClickID=3"
+1510549355242	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn5/?PGTID=0d411266-00aa-44f1-2cc3-ab9fb8b2e10d&ClickID=3"
+1510549355250	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn5/?PGTID=0d411266-00aa-44f1-2cc3-ab9fb8b2e10d&ClickID=3"
+1510549355456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1510549356228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn6/?PGTID=0d411266-00aa-4ba7-40f7-668f9313a00e&ClickID=3"
+1510549356646	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn6/?PGTID=0d411266-00aa-4ba7-40f7-668f9313a00e&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549441833	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn6/?PGTID=0d411266-00aa-4ba7-40f7-668f9313a00e&ClickID=3"
+1510549442026	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn6/?PGTID=0d411266-00aa-4ba7-40f7-668f9313a00e&ClickID=3"
+1510549442032	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn6/?PGTID=0d411266-00aa-4ba7-40f7-668f9313a00e&ClickID=3"
+1510549442258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1510549443198	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn7/?PGTID=0d411266-00aa-4629-e416-497181b44a14&ClickID=3"
+1510549443820	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn7/?PGTID=0d411266-00aa-4629-e416-497181b44a14&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549530022	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn7/?PGTID=0d411266-00aa-4629-e416-497181b44a14&ClickID=3"
+1510549530244	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn7/?PGTID=0d411266-00aa-4629-e416-497181b44a14&ClickID=3"
+1510549530262	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn7/?PGTID=0d411266-00aa-4629-e416-497181b44a14&ClickID=3"
+1510549530551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1510549531268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn8/?PGTID=0d411266-00aa-4d49-a75e-16d66fb9d947&ClickID=3"
+1510549531697	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn8/?PGTID=0d411266-00aa-4d49-a75e-16d66fb9d947&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549616829	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn8/?PGTID=0d411266-00aa-4d49-a75e-16d66fb9d947&ClickID=3"
+1510549617008	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn8/?PGTID=0d411266-00aa-4d49-a75e-16d66fb9d947&ClickID=3"
+1510549617020	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn8/?PGTID=0d411266-00aa-4d49-a75e-16d66fb9d947&ClickID=3"
+1510549617225	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1510549618013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn9/?PGTID=0d411266-00aa-43ec-6ce8-5d0625bf0847&ClickID=3"
+1510549618641	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn9/?PGTID=0d411266-00aa-43ec-6ce8-5d0625bf0847&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549703232	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn9/?PGTID=0d411266-00aa-43ec-6ce8-5d0625bf0847&ClickID=3"
+1510549703425	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn9/?PGTID=0d411266-00aa-43ec-6ce8-5d0625bf0847&ClickID=3"
+1510549703436	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn9/?PGTID=0d411266-00aa-43ec-6ce8-5d0625bf0847&ClickID=3"
+1510549703664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1510549704522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn10/?PGTID=0d411266-00aa-4a9a-f17a-661899311e61&ClickID=3"
+1510549705011	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn10/?PGTID=0d411266-00aa-4a9a-f17a-661899311e61&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549790060	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn10/?PGTID=0d411266-00aa-4a9a-f17a-661899311e61&ClickID=3"
+1510549790286	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn10/?PGTID=0d411266-00aa-4a9a-f17a-661899311e61&ClickID=3"
+1510549790296	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn10/?PGTID=0d411266-00aa-4a9a-f17a-661899311e61&ClickID=3"
+1510549790487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1510549791248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn11/?PGTID=0d411266-00aa-4222-8c1c-fa3acf78c6f0&ClickID=3"
+1510549791681	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn11/?PGTID=0d411266-00aa-4222-8c1c-fa3acf78c6f0&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549876739	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn11/?PGTID=0d411266-00aa-4222-8c1c-fa3acf78c6f0&ClickID=3"
+1510549876955	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn11/?PGTID=0d411266-00aa-4222-8c1c-fa3acf78c6f0&ClickID=3"
+1510549876963	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn11/?PGTID=0d411266-00aa-4222-8c1c-fa3acf78c6f0&ClickID=3"
+1510549877172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1510549877907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-407e-d68e-085c0ba0aa24&ClickID=3"
+1510549878295	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-407e-d68e-085c0ba0aa24&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510549983895	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-407e-d68e-085c0ba0aa24&ClickID=3"
+1510549984055	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-407e-d68e-085c0ba0aa24&ClickID=3"
+1510549984067	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-407e-d68e-085c0ba0aa24&ClickID=3"
+1510549984256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1510549984939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn13/?PGTID=0d411266-00aa-4854-1236-a21a49a6fc2e&ClickID=3"
+1510549985528	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn13/?PGTID=0d411266-00aa-4854-1236-a21a49a6fc2e&ClickID=3"
+00aa-b645-8515-f42fcdeded2f&ClickID=3"
+1510549920943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1510549921542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/25542466132486/574/pn13/?PGTID=0d411266-00aa-b642-ccc6-db253ce2a43d&ClickID=3"
+1510549921959	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/25542466132486/574/pn13/?PGTID=0d411266-00aa-b642-ccc6-db253ce2a43d&ClickID=3"
+4177	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-45c4-3dc2-0417ec09e5ba&ClickID=4"
+1510414034182	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/21753846687238/574/pn12/?PGTID=0d411266-00aa-45c4-3dc2-0417ec09e5ba&ClickID=4"
+1510414034336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1510414034933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/21753846687238/574/pn13/?PGTID=0d411266-00aa-4b6a-8922-e0bed0c9f455&ClickID=3"
+1510414035347	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/21753846687238/574/pn13/?PGTID=0d411266-00aa-4b6a-8922-e0bed0c9f455&ClickID=3"
+48587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1510396649126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/41192498241806/574/pn14/?PGTID=0d411266-02fe-f8c3-2f00-80e6c245c129&ClickID=3"
+1510396650499	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/41192498241806/574/pn14/?PGTID=0d411266-02fe-f8c3-2f00-80e6c245c129&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510396692537	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/41192498241806/574/pn14/?PGTID=0d411266-02fe-f8c3-2f00-80e6c245c129&ClickID=3"
+1510396692791	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/41192498241806/574/pn14/?PGTID=0d411266-02fe-f8c3-2f00-80e6c245c129&ClickID=3"
+1510396692803	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/41192498241806/574/pn14/?PGTID=0d411266-02fe-f8c3-2f00-80e6c245c129&ClickID=3"
+1510396692974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1510396701130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/41192498241806/574/pn15/?PGTID=0d411266-02fe-f3c4-b554-f4f45161bd7e&ClickID=3"
+1510396737919	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/41192498241806/574/pn15/?PGTID=0d411266-02fe-f3c4-b554-f4f45161bd7e&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510396779970	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/41192498241806/574/pn15/?PGTID=0d411266-02fe-f3c4-b554-f4f45161bd7e&ClickID=3"
+1510396780459	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/41192498241806/574/pn15/?PGTID=0d411266-02fe-f3c4-b554-f4f45161bd7e&ClickID=3"
+1510396780473	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/41192498241806/574/pn15/?PGTID=0d411266-02fe-f3c4-b554-f4f45161bd7e&ClickID=3"
+1510396780647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+JavaScript error: http://j1.58cdn.com.cn/n/js/qy/entdetail_v20161117191544.js, line 1: ReferenceError: clickLog is not defined
+1510396781548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/41192498241806/574/pn16/?PGTID=0d411266-02fe-fab0-fafb-5fb239e3354d&ClickID=3"
+1510396783164	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/41192498241806/574/pn16/?PGTID=0d411266-02fe-fab0-fafb-5fb239e3354d&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510396825208	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/41192498241806/574/pn16/?PGTID=0d411266-02fe-fab0-fafb-5fb239e3354d&ClickID=3"
+1510396825439	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/41192498241806/574/pn16/?PGTID=0d411266-02fe-fab0-fafb-5fb239e3354d&ClickID=3"
+1510396825444	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/41192498241806/574/pn16/?PGTID=0d411266-02fe-fab0-fafb-5fb239e3354d&ClickID=3"
+1510396825670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1510396826824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/41192498241806/574/pn17/?PGTID=0d411266-02fe-fbf4-3394-561c8c95f4de&ClickID=2"
+1510396828063	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/41192498241806/574/pn17/?PGTID=0d411266-02fe-fbf4-3394-561c8c95f4de&ClickID=2"
+//bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386061728	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn17/?PGTID=0d411266-03ca-4677-6291-444fa06606e4&ClickID=3"
+1510386061874	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn17/?PGTID=0d411266-03ca-4677-6291-444fa06606e4&ClickID=3"
+1510386061888	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn17/?PGTID=0d411266-03ca-4677-6291-444fa06606e4&ClickID=3"
+1510386062176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1510386063007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn18/?PGTID=0d411266-03ca-42d4-a90a-794cc868dd73&ClickID=3"
+1510386063383	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn18/?PGTID=0d411266-03ca-42d4-a90a-794cc868dd73&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386105707	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn18/?PGTID=0d411266-03ca-42d4-a90a-794cc868dd73&ClickID=3"
+1510386105866	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn18/?PGTID=0d411266-03ca-42d4-a90a-794cc868dd73&ClickID=3"
+1510386105873	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn18/?PGTID=0d411266-03ca-42d4-a90a-794cc868dd73&ClickID=3"
+1510386106196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1510386107431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn19/?PGTID=0d411266-03ca-45ca-89d7-95d5a75ea743&ClickID=3"
+1510386107842	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn19/?PGTID=0d411266-03ca-45ca-89d7-95d5a75ea743&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386156383	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn19/?PGTID=0d411266-03ca-45ca-89d7-95d5a75ea743&ClickID=3"
+1510386156535	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn19/?PGTID=0d411266-03ca-45ca-89d7-95d5a75ea743&ClickID=3"
+1510386156539	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn19/?PGTID=0d411266-03ca-45ca-89d7-95d5a75ea743&ClickID=3"
+1510386156985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1510386157653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn20/?PGTID=0d411266-03ca-46b7-257b-12658b64b9fe&ClickID=3"
+1510386157874	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn20/?PGTID=0d411266-03ca-46b7-257b-12658b64b9fe&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386199957	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn20/?PGTID=0d411266-03ca-46b7-257b-12658b64b9fe&ClickID=3"
+1510386200109	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn20/?PGTID=0d411266-03ca-46b7-257b-12658b64b9fe&ClickID=3"
+1510386200114	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn20/?PGTID=0d411266-03ca-46b7-257b-12658b64b9fe&ClickID=3"
+1510386200609	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1510386201230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn21/?PGTID=0d411266-03ca-477a-bcca-32f1f1d435fa&ClickID=3"
+1510386201392	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn21/?PGTID=0d411266-03ca-477a-bcca-32f1f1d435fa&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386243358	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn21/?PGTID=0d411266-03ca-477a-bcca-32f1f1d435fa&ClickID=3"
+1510386243499	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn21/?PGTID=0d411266-03ca-477a-bcca-32f1f1d435fa&ClickID=3"
+1510386243504	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn21/?PGTID=0d411266-03ca-477a-bcca-32f1f1d435fa&ClickID=3"
+1510386243754	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967385"
+1510386244465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn22/?PGTID=0d411266-03ca-4540-a023-4cf6a2615a44&ClickID=3"
+1510386244873	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn22/?PGTID=0d411266-03ca-4540-a023-4cf6a2615a44&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386286981	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn22/?PGTID=0d411266-03ca-4540-a023-4cf6a2615a44&ClickID=3"
+1510386287141	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn22/?PGTID=0d411266-03ca-4540-a023-4cf6a2615a44&ClickID=3"
+1510386287149	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn22/?PGTID=0d411266-03ca-4540-a023-4cf6a2615a44&ClickID=3"
+1510386287396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967389"
+1510386287964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn23/?PGTID=0d411266-03ca-47a4-1237-7353471662c5&ClickID=3"
+1510386289087	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn23/?PGTID=0d411266-03ca-47a4-1237-7353471662c5&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386331112	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn23/?PGTID=0d411266-03ca-47a4-1237-7353471662c5&ClickID=3"
+1510386331251	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn23/?PGTID=0d411266-03ca-47a4-1237-7353471662c5&ClickID=3"
+1510386331267	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn23/?PGTID=0d411266-03ca-47a4-1237-7353471662c5&ClickID=3"
+1510386331471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+JavaScript error: http://j1.58cdn.com.cn/n/js/qy/entdetail_v20161117191544.js, line 1: ReferenceError: clickLog is not defined
+1510386332064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn24/?PGTID=0d411266-03ca-4a20-2c39-1ac6430e0c5a&ClickID=3"
+JavaScript error: http://j1.58cdn.com.cn/chuangxin/ugc/pc/js/ugc_comment_qy_detail_v20161123160522.js, line 1: ReferenceError: clickLog is not defined
+1510386332435	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn24/?PGTID=0d411266-03ca-4a20-2c39-1ac6430e0c5a&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386374426	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn24/?PGTID=0d411266-03ca-4a20-2c39-1ac6430e0c5a&ClickID=3"
+1510386374555	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn24/?PGTID=0d411266-03ca-4a20-2c39-1ac6430e0c5a&ClickID=3"
+1510386374560	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn24/?PGTID=0d411266-03ca-4a20-2c39-1ac6430e0c5a&ClickID=3"
+1510386374774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967397"
+1510386375359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn25/?PGTID=0d411266-03ca-4972-c27e-1be380b9fba1&ClickID=1"
+1510386375764	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn25/?PGTID=0d411266-03ca-4972-c27e-1be380b9fba1&ClickID=1"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386417827	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn25/?PGTID=0d411266-03ca-4972-c27e-1be380b9fba1&ClickID=1"
+1510386417973	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn25/?PGTID=0d411266-03ca-4972-c27e-1be380b9fba1&ClickID=1"
+1510386417996	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn25/?PGTID=0d411266-03ca-4972-c27e-1be380b9fba1&ClickID=1"
+1510386418229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967401"
+1510386418913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn26/?PGTID=0d411266-03ca-480f-c318-5a00ba6bbdc4&ClickID=3"
+1510386419353	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn26/?PGTID=0d411266-03ca-480f-c318-5a00ba6bbdc4&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386461615	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn26/?PGTID=0d411266-03ca-480f-c318-5a00ba6bbdc4&ClickID=3"
+1510386461759	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn26/?PGTID=0d411266-03ca-480f-c318-5a00ba6bbdc4&ClickID=3"
+1510386461768	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn26/?PGTID=0d411266-03ca-480f-c318-5a00ba6bbdc4&ClickID=3"
+1510386462039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967405"
+1510386462618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn27/?PGTID=0d411266-03ca-4e4f-103e-53fe3c4e9232&ClickID=3"
+1510386462927	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn27/?PGTID=0d411266-03ca-4e4f-103e-53fe3c4e9232&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386504952	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn27/?PGTID=0d411266-03ca-4e4f-103e-53fe3c4e9232&ClickID=3"
+1510386505087	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn27/?PGTID=0d411266-03ca-4e4f-103e-53fe3c4e9232&ClickID=3"
+1510386505100	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn27/?PGTID=0d411266-03ca-4e4f-103e-53fe3c4e9232&ClickID=3"
+1510386505282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967409"
+1510386505949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn28/?PGTID=0d411266-03ca-4f5b-902d-f9076e0a405a&ClickID=3"
+1510386506378	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn28/?PGTID=0d411266-03ca-4f5b-902d-f9076e0a405a&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386548351	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn28/?PGTID=0d411266-03ca-4f5b-902d-f9076e0a405a&ClickID=3"
+1510386548485	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn28/?PGTID=0d411266-03ca-4f5b-902d-f9076e0a405a&ClickID=3"
+1510386548490	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn28/?PGTID=0d411266-03ca-4f5b-902d-f9076e0a405a&ClickID=3"
+1510386548776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967413"
+1510386549340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn29/?PGTID=0d411266-03ca-47b4-c6ed-c7e4057f7658&ClickID=3"
+1510386549796	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn29/?PGTID=0d411266-03ca-47b4-c6ed-c7e4057f7658&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386592436	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn29/?PGTID=0d411266-03ca-47b4-c6ed-c7e4057f7658&ClickID=3"
+1510386592779	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn29/?PGTID=0d411266-03ca-47b4-c6ed-c7e4057f7658&ClickID=3"
+1510386592790	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn29/?PGTID=0d411266-03ca-47b4-c6ed-c7e4057f7658&ClickID=3"
+1510386592986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967417"
+1510386593792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn30/?PGTID=0d411266-03ca-4595-dc4c-2cea998a71d0&ClickID=3"
+1510386594328	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn30/?PGTID=0d411266-03ca-4595-dc4c-2cea998a71d0&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386636433	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn30/?PGTID=0d411266-03ca-4595-dc4c-2cea998a71d0&ClickID=3"
+1510386636584	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn30/?PGTID=0d411266-03ca-4595-dc4c-2cea998a71d0&ClickID=3"
+1510386636590	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn30/?PGTID=0d411266-03ca-4595-dc4c-2cea998a71d0&ClickID=3"
+1510386636812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1510386637533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn31/?PGTID=0d411266-03ca-4fcf-8160-a064262c4690&ClickID=3"
+1510386638108	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn31/?PGTID=0d411266-03ca-4fcf-8160-a064262c4690&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386680123	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn31/?PGTID=0d411266-03ca-4fcf-8160-a064262c4690&ClickID=3"
+1510386680265	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn31/?PGTID=0d411266-03ca-4fcf-8160-a064262c4690&ClickID=3"
+1510386680276	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn31/?PGTID=0d411266-03ca-4fcf-8160-a064262c4690&ClickID=3"
+1510386680468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1510386681082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn32/?PGTID=0d411266-03ca-41d6-4521-c08fdafb2914&ClickID=3"
+1510386681468	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn32/?PGTID=0d411266-03ca-41d6-4521-c08fdafb2914&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386723380	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn32/?PGTID=0d411266-03ca-41d6-4521-c08fdafb2914&ClickID=3"
+1510386723531	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn32/?PGTID=0d411266-03ca-41d6-4521-c08fdafb2914&ClickID=3"
+1510386723536	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn32/?PGTID=0d411266-03ca-41d6-4521-c08fdafb2914&ClickID=3"
+1510386723724	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967429"
+1510386724292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn33/?PGTID=0d411266-03ca-497b-0755-14ac3ef0c829&ClickID=3"
+1510386724627	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn33/?PGTID=0d411266-03ca-497b-0755-14ac3ef0c829&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386766638	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn33/?PGTID=0d411266-03ca-497b-0755-14ac3ef0c829&ClickID=3"
+1510386766767	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn33/?PGTID=0d411266-03ca-497b-0755-14ac3ef0c829&ClickID=3"
+1510386766781	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn33/?PGTID=0d411266-03ca-497b-0755-14ac3ef0c829&ClickID=3"
+1510386766966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967433"
+1510386767523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn34/?PGTID=0d411266-03ca-4c94-34a7-2ffc99cfca1c&ClickID=3"
+1510386767892	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn34/?PGTID=0d411266-03ca-4c94-34a7-2ffc99cfca1c&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386809919	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn34/?PGTID=0d411266-03ca-4c94-34a7-2ffc99cfca1c&ClickID=3"
+1510386810067	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn34/?PGTID=0d411266-03ca-4c94-34a7-2ffc99cfca1c&ClickID=3"
+1510386810073	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn34/?PGTID=0d411266-03ca-4c94-34a7-2ffc99cfca1c&ClickID=3"
+1510386810371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967437"
+1510386811258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn35/?PGTID=0d411266-03ca-4d71-f9ca-5da32fc8ed64&ClickID=3"
+1510386811733	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn35/?PGTID=0d411266-03ca-4d71-f9ca-5da32fc8ed64&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386853923	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn35/?PGTID=0d411266-03ca-4d71-f9ca-5da32fc8ed64&ClickID=3"
+1510386854075	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn35/?PGTID=0d411266-03ca-4d71-f9ca-5da32fc8ed64&ClickID=3"
+1510386854091	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn35/?PGTID=0d411266-03ca-4d71-f9ca-5da32fc8ed64&ClickID=3"
+1510386854286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967441"
+1510386854854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn36/?PGTID=0d411266-03ca-4d6f-3fb6-a90daad26f26&ClickID=3"
+1510386855206	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn36/?PGTID=0d411266-03ca-4d6f-3fb6-a90daad26f26&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386897218	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn36/?PGTID=0d411266-03ca-4d6f-3fb6-a90daad26f26&ClickID=3"
+1510386897375	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn36/?PGTID=0d411266-03ca-4d6f-3fb6-a90daad26f26&ClickID=3"
+1510386897383	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn36/?PGTID=0d411266-03ca-4d6f-3fb6-a90daad26f26&ClickID=3"
+1510386897595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967445"
+1510386898293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn37/?PGTID=0d411266-03ca-4cf0-ed89-d31247db9192&ClickID=3"
+1510386898675	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn37/?PGTID=0d411266-03ca-4cf0-ed89-d31247db9192&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386940880	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn37/?PGTID=0d411266-03ca-4cf0-ed89-d31247db9192&ClickID=3"
+1510386941020	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn37/?PGTID=0d411266-03ca-4cf0-ed89-d31247db9192&ClickID=3"
+1510386941033	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn37/?PGTID=0d411266-03ca-4cf0-ed89-d31247db9192&ClickID=3"
+1510386941229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967449"
+1510386941856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn38/?PGTID=0d411266-03ca-44f3-0a05-619b0f2a099c&ClickID=3"
+1510386942280	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn38/?PGTID=0d411266-03ca-44f3-0a05-619b0f2a099c&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510386984517	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn38/?PGTID=0d411266-03ca-44f3-0a05-619b0f2a099c&ClickID=3"
+1510386984658	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn38/?PGTID=0d411266-03ca-44f3-0a05-619b0f2a099c&ClickID=3"
+1510386984663	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn38/?PGTID=0d411266-03ca-44f3-0a05-619b0f2a099c&ClickID=3"
+1510386984864	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967453"
+1510386985402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn39/?PGTID=0d411266-03ca-4ba7-7fcb-4d05a9b1e53c&ClickID=3"
+1510386985854	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn39/?PGTID=0d411266-03ca-4ba7-7fcb-4d05a9b1e53c&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510387028148	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn39/?PGTID=0d411266-03ca-4ba7-7fcb-4d05a9b1e53c&ClickID=3"
+1510387028389	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn39/?PGTID=0d411266-03ca-4ba7-7fcb-4d05a9b1e53c&ClickID=3"
+1510387028400	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn39/?PGTID=0d411266-03ca-4ba7-7fcb-4d05a9b1e53c&ClickID=3"
+1510387028593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967457"
+1510387029277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn40/?PGTID=0d411266-03ca-4b70-e96c-cf08e2e236cd&ClickID=3"
+1510387029869	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn40/?PGTID=0d411266-03ca-4b70-e96c-cf08e2e236cd&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510387071981	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn40/?PGTID=0d411266-03ca-4b70-e96c-cf08e2e236cd&ClickID=3"
+1510387072143	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn40/?PGTID=0d411266-03ca-4b70-e96c-cf08e2e236cd&ClickID=3"
+1510387072147	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn40/?PGTID=0d411266-03ca-4b70-e96c-cf08e2e236cd&ClickID=3"
+1510387072333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967461"
+1510387072889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn41/?PGTID=0d411266-03ca-4c92-8fc1-d03c92f32ca3&ClickID=3"
+1510387073236	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn41/?PGTID=0d411266-03ca-4c92-8fc1-d03c92f32ca3&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510387115439	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn41/?PGTID=0d411266-03ca-4c92-8fc1-d03c92f32ca3&ClickID=3"
+1510387115611	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn41/?PGTID=0d411266-03ca-4c92-8fc1-d03c92f32ca3&ClickID=3"
+1510387115626	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn41/?PGTID=0d411266-03ca-4c92-8fc1-d03c92f32ca3&ClickID=3"
+1510387115811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967465"
+1510387116809	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn42/?PGTID=0d411266-03ca-4b15-c8a5-8d3a788dc78d&ClickID=3"
+1510387119427	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn42/?PGTID=0d411266-03ca-4b15-c8a5-8d3a788dc78d&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510387161557	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn42/?PGTID=0d411266-03ca-4b15-c8a5-8d3a788dc78d&ClickID=3"
+1510387161694	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn42/?PGTID=0d411266-03ca-4b15-c8a5-8d3a788dc78d&ClickID=3"
+1510387161700	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn42/?PGTID=0d411266-03ca-4b15-c8a5-8d3a788dc78d&ClickID=3"
+1510387162009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967469"
+1510387162658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn43/?PGTID=0d411266-03ca-4995-6d07-398fed09a2a5&ClickID=3"
+1510387163118	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn43/?PGTID=0d411266-03ca-4995-6d07-398fed09a2a5&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510387205136	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/29893917379850/574/pn43/?PGTID=0d411266-03ca-4995-6d07-398fed09a2a5&ClickID=3"
+1510387205255	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/29893917379850/574/pn43/?PGTID=0d411266-03ca-4995-6d07-398fed09a2a5&ClickID=3"
+1510387205266	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/29893917379850/574/pn43/?PGTID=0d411266-03ca-4995-6d07-398fed09a2a5&ClickID=3"
+1510387205463	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967473"
+1510387206391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/29893917379850/574/pn44/?PGTID=0d411266-03ca-4992-bf04-217b774b8541&ClickID=3"
+1510387206891	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/29893917379850/574/pn44/?PGTID=0d411266-03ca-4992-bf04-217b774b8541&ClickID=3"
+463/574/pn44/?PGTID=0d411266-00ab-dec7-bf88-3f1779c0b814&ClickID=3"
+1510375214668	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn44/?PGTID=0d411266-00ab-dec7-bf88-3f1779c0b814&ClickID=3"
+1510375215161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967477"
+1510375215786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn45/?PGTID=0d411266-00ab-d98e-82c2-c7860a976523&ClickID=4"
+1510375216006	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn45/?PGTID=0d411266-00ab-d98e-82c2-c7860a976523&ClickID=4"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510375258241	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/44451872861463/574/pn45/?PGTID=0d411266-00ab-d98e-82c2-c7860a976523&ClickID=4"
+1510375258431	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/44451872861463/574/pn45/?PGTID=0d411266-00ab-d98e-82c2-c7860a976523&ClickID=4"
+1510375258437	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn45/?PGTID=0d411266-00ab-d98e-82c2-c7860a976523&ClickID=4"
+1510375258952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967481"
+1510375259623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn46/?PGTID=0d411266-00ab-d674-34de-02e56b3d4b12&ClickID=3"
+1510375259871	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn46/?PGTID=0d411266-00ab-d674-34de-02e56b3d4b12&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510375302565	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/44451872861463/574/pn46/?PGTID=0d411266-00ab-d674-34de-02e56b3d4b12&ClickID=3"
+1510375302702	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/44451872861463/574/pn46/?PGTID=0d411266-00ab-d674-34de-02e56b3d4b12&ClickID=3"
+1510375302708	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn46/?PGTID=0d411266-00ab-d674-34de-02e56b3d4b12&ClickID=3"
+1510375303206	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967485"
+1510375303868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn47/?PGTID=0d411266-00ab-da05-44e5-333d9693b9aa&ClickID=3"
+1510375304077	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn47/?PGTID=0d411266-00ab-da05-44e5-333d9693b9aa&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510375346138	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/44451872861463/574/pn47/?PGTID=0d411266-00ab-da05-44e5-333d9693b9aa&ClickID=3"
+1510375346268	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/44451872861463/574/pn47/?PGTID=0d411266-00ab-da05-44e5-333d9693b9aa&ClickID=3"
+1510375346275	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn47/?PGTID=0d411266-00ab-da05-44e5-333d9693b9aa&ClickID=3"
+1510375346799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967489"
+1510375347436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn48/?PGTID=0d411266-00ab-d240-da7b-1ccc15de3ddd&ClickID=3"
+1510375347678	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn48/?PGTID=0d411266-00ab-d240-da7b-1ccc15de3ddd&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510375389818	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/44451872861463/574/pn48/?PGTID=0d411266-00ab-d240-da7b-1ccc15de3ddd&ClickID=3"
+1510375389963	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/44451872861463/574/pn48/?PGTID=0d411266-00ab-d240-da7b-1ccc15de3ddd&ClickID=3"
+1510375389969	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn48/?PGTID=0d411266-00ab-d240-da7b-1ccc15de3ddd&ClickID=3"
+1510375390503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967493"
+1510375391269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn49/?PGTID=0d411266-00ab-db12-4980-c0b2bfd20567&ClickID=3"
+1510375391540	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn49/?PGTID=0d411266-00ab-db12-4980-c0b2bfd20567&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510375433571	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/44451872861463/574/pn49/?PGTID=0d411266-00ab-db12-4980-c0b2bfd20567&ClickID=3"
+1510375433719	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/44451872861463/574/pn49/?PGTID=0d411266-00ab-db12-4980-c0b2bfd20567&ClickID=3"
+1510375433724	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn49/?PGTID=0d411266-00ab-db12-4980-c0b2bfd20567&ClickID=3"
+1510375434229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967497"
+1510375434869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn50/?PGTID=0d411266-00ab-d037-9548-4db4699cc124&ClickID=3"
+1510375435069	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn50/?PGTID=0d411266-00ab-d037-9548-4db4699cc124&ClickID=3"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510375477106	Marionette	DEBUG	Received DOM event "beforeunload" for "http://qy.58.com/44451872861463/574/pn50/?PGTID=0d411266-00ab-d037-9548-4db4699cc124&ClickID=3"
+1510375477273	Marionette	DEBUG	Received DOM event "pagehide" for "http://qy.58.com/44451872861463/574/pn50/?PGTID=0d411266-00ab-d037-9548-4db4699cc124&ClickID=3"
+1510375477278	Marionette	DEBUG	Received DOM event "unload" for "http://qy.58.com/44451872861463/574/pn50/?PGTID=0d411266-00ab-d037-9548-4db4699cc124&ClickID=3"
+1510375477788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967501"
+1510375478877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://qy.58.com/44451872861463/574/pn51/?PGTID=0d411266-00ab-dde3-e360-3f0668c54e88&ClickID=3"
+1510375479417	Marionette	DEBUG	Received DOM event "pageshow" for "http://qy.58.com/44451872861463/574/pn51/?PGTID=0d411266-00ab-dde3-e360-3f0668c54e88&ClickID=3"
