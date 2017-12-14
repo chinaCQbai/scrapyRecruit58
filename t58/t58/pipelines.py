@@ -3,10 +3,10 @@
 import MySQLdb
 import datetime
 
-dbuser = 'root'
-dbpass = 'gaoxia'
+dbuser = ''
+dbpass = ''
 dbname = 'cqhrsp'
-dbhost = '120.24.229.126'
+dbhost = ''
 dbport = '3306'
 
 class T58PositionPipeline(object):
